@@ -30,8 +30,8 @@ module.exports = () => {
         name: 'Text Editor',
         short_name: 'Jate',
         description: 'Edit your code!',
-        background_color: '#7eb4e2',
-        theme_color: '#7eb4e2',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         publicPath: './',
         fingerprints: false,
         icons: [
